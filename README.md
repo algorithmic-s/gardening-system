@@ -13,4 +13,4 @@ a basic gardening system that helps garderners plan out their next meal or which
         * ability to see nearby stores selling gardening stuff 
         * a informatic showing the benefits of growing yout own food, the benefits of buying organic, and nearby markets to buy fresh produce or sell your own fresh produce
         * automatic charts showing previous work done on gardening, what foods were grown, etc.
-        * might add an agriculture application to help growth of crops & integrating with IoT sensors that measure plant growth, etc
+        * might add an agriculture application to help growth of crops,, which might be more complicated since there are many crops to look after for any person working in agriculture & integrating that with IoT sensors that measure plant growth, etc
